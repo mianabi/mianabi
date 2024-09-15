@@ -1,5 +1,5 @@
 
-<h2 align="center"><b>Hi , I'm Majid Mianabi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+<h2 align="left"><b>Hi.. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Currently+learning+DevOps..&hearts;++;I’m+Looking+to+Collaborate+on+DevOps,;Experience+in+Software+Development,;Experience+in+network+security,;Love+to+learn+new+stuffs..<3"></a>
